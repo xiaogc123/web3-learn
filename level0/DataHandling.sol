@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.20;
+// 定义一个合约，用于处理数据
 contract DataHandling {
     // 存储在storage中的动态数组
     uint[] public data;
